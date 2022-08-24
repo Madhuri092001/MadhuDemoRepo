@@ -1,0 +1,9 @@
+{
+	"name": "MadhuriDemoADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df1f88b4-9788-4c11-ab47-52d711511d35",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
