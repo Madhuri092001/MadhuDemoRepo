@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "MadhuriDemoADF"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
